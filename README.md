@@ -36,7 +36,7 @@ Leave you features &amp; Issues to improve an official VATPRC sector
 - `CARGO` | 表示货运机位
 - `BUSINESS` | 表示公务机位
 
-仅可四选一
+！仅可四选一！
 
 例如：`215,219-240,301-337,401-413\tDOM`
 
