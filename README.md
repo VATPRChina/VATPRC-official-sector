@@ -55,4 +55,5 @@ Leave you features &amp; Issues to improve an official VATPRC sector
 例如：`308,403,405,406-440\t69`
 
 
+**注意：上述\t为TAB分隔符**
 
