@@ -3,7 +3,13 @@ Leave you features &amp; Issues to improve an official VATPRC sector
 
 
 # 停机位自动分配功能所需文件
+> 完成下列文件后，可提交至扇区组，通过检查后，会在下期随更新同步上线
+> 
+> 为避免重复制作，请于制作前通知扇区组
+>
+> 制作过程中存在问题，请及时于扇区组联系
 
+## 结构
 ```
 {机场代码} | 文件夹
 ├── {机场代码}-Airlines.txt
@@ -48,5 +54,5 @@ Leave you features &amp; Issues to improve an official VATPRC sector
 
 例如：`308,403,405,406-440\t69`
 
-##
-## 完成上述文件后，可提交至扇区组，通过检查后，会在下期随更新同步上线
+
+
