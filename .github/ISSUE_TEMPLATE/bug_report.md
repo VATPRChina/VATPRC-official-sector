@@ -19,6 +19,7 @@ assignees: RudiZhang
 **系统信息**
  - ES版本
  - Windows版本
+- VATSIM CID (必填，不接受未知用户所提交的issue)
  - 或其他相关
 
 **额外信息**
